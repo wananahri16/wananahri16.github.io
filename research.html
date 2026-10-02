@@ -1,0 +1,298 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Research | Yang Li</title>
+  <meta name="description" content="Yang Li — geotechnical engineering, granular mechanics, particle morphology, breakage, wave propagation and computational research.">
+  <link rel="icon" href="assets/favicon.svg">
+  <link rel="stylesheet" href="assets/style.css">
+
+  <style>
+    .research-list {
+      margin-top: 3rem;
+    }
+
+    .research-topic {
+  padding: 3.5rem 0;
+  border-top: 1px solid rgba(0,0,0,.12);
+    }
+
+    .research-top {
+      display: grid;
+      grid-template-columns: minmax(0, 0.85fr) minmax(450px, 1.15fr);
+      gap: 50px;
+      align-items: start;
+    }
+
+    /* 让图片从描述文字的位置开始 */
+    .research-figure {
+      margin: 105px 0 0 0;
+    }
+
+    .research-figure img {
+      width: 100%;
+      height: auto;
+      display: block;
+      border-radius: 10px;
+    }
+
+    /* publication 占据整个宽度 */
+    .research-publications {
+      width: 100%;
+      margin-top: 2rem;
+    }
+
+    .selected-pubs {
+      margin: 0;
+      padding-left: 1.5rem;
+      max-width: none;
+    }
+
+    .selected-pubs li {
+      margin-bottom: .7rem;
+      line-height: 1.55;
+    }
+
+    .research-figure img {
+      width: 100%;
+      height: auto;
+      display: block;
+      border-radius: 10px;
+    }
+
+    .research-topic:first-child {
+      border-top: 0;
+      padding-top: 1rem;
+    }
+
+    .research-number {
+      display: inline-block;
+      margin-bottom: .65rem;
+      font-size: .78rem;
+      font-weight: 700;
+      letter-spacing: .14em;
+      color: #777;
+    }
+
+    .research-topic h2 {
+      margin: 0 0 1rem;
+      font-size: clamp(1.55rem, 2.2vw, 2.15rem);
+      line-height: 1.2;
+    }
+
+    .research-topic .description {
+      margin: 0 0 1.6rem;
+      line-height: 1.75;
+      max-width: 760px;
+    }
+
+    .research-figure {
+      margin: 0;
+    }
+
+    .research-figure img {
+      width: 100%;
+      height: auto;
+      display: block;
+      border-radius: 10px;
+    }
+
+    .pub-title {
+      margin: 1.8rem 0 .75rem;
+      font-size: .82rem;
+      font-weight: 700;
+      letter-spacing: .1em;
+      text-transform: uppercase;
+      color: #666;
+    }
+
+    .selected-pubs {
+      margin: 0;
+      padding-left: 1.25rem;
+    }
+
+    .selected-pubs li {
+      margin-bottom: .7rem;
+      line-height: 1.55;
+    }
+
+    .selected-pubs em {
+      font-style: italic;
+    }
+
+    .all-publications {
+      display: inline-block;
+      margin-top: .65rem;
+      font-size: .92rem;
+      font-weight: 600;
+      text-decoration: none;
+    }
+
+    @media (max-width: 880px) {
+      .research-topic {
+        grid-template-columns: 1fr;
+        gap: 24px;
+      }
+
+      .research-figure {
+        order: -1;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+
+  <header>
+    <a class="brand" href="index.html">
+      YANG LI
+      <span>Research / Academic</span>
+    </a>
+
+    <nav aria-label="Main navigation">
+      <a href="index.html">Home</a>
+      <a href="research.html" aria-current="page">Research</a>
+      <a href="publications.html">Publications</a>
+      <a href="projects.html">Projects</a>
+      <a href="teaching.html">Teaching</a>
+      <a href="cv.html">CV</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <main id="main">
+    <p class="eyebrow">RESEARCH</p>
+    <h1>Granular mechanics across scales.</h1>
+    <p class="intro">
+      My research focuses on the multiscale mechanics of granular materials,
+      combining advanced experiments, image-based characterization,
+      numerical modeling, and data-driven approaches.
+    </p>
+
+    <div class="research-list">
+
+      <!-- 01 -->
+      <section class="research-topic">
+        <div class="research-text">
+          <span class="research-number">01 /</span>
+          <h2>Particle morphology and breakage across scales</h2>
+          <p class="description">
+            Investigate how particle shape, surface roughness, and grain fragmentation
+            evolve under loading and how these particle-scale characteristics control
+            strength, dilatancy, softening, and crushing behavior. Advanced labolatory testing enhanced by digital and acoustic technique is employed to connect morphology evolution with the macroscopic
+            response of granular materials.
+          </p>
+
+          <p class="pub-title">Selected publications</p>
+          <ol class="selected-pubs">
+            <li>
+              <strong>Li, Y.</strong>, Singh, S., Buscarnera, G. (2025) X-ray microtomography measurements of
+              coevolving particle size and shape. Journal of Geotechnical and Geoenvironmental Engineering,
+              151(10), 04025110.
+            </li>
+            <li>
+              <strong>Li, Y.*.</strong>, Otsubo, M., Liu, J., Kuwano, R. (2024) Effect of particle morphology on
+              stress and strain characteristics of granular materials during triaxial compression. Acta
+              Geotechnica, 19, 2753–2773.
+            </li>
+            <li>
+              <strong>Li, Y.*</strong>, Otsubo, M., Kuwano, R., Nadimi, S. (2021). Quantitative evaluation of
+              surface roughness for granular materials using Gaussian filter method. Powder Technology, 388,
+              251-260.
+            </li>
+          </ol>
+          <a class="all-publications" href="publications.html">View all publications →</a>
+        </div>
+
+        <figure class="research-figure">
+          <img src="assets/research1.png"
+               alt="Research on particle morphology, surface roughness and particle breakage">
+        </figure>
+      </section>
+
+      <!-- 02 -->
+      <section class="research-topic">
+        <div class="research-text">
+          <span class="research-number">02 / </span>
+          <h2>Image-informed modeling and multiscale granular mechanics</h2>
+          <p class="description">
+            Develop and apply DEM-based numerical methods to simulate realistic
+            particle geometries, quantify complex contact interactions,
+            and reveal the links between particle-scale fabric and macroscopic mechanical
+            behavior. Particular attention is given to contact modeling, elastic response,
+            localization, and anisotropy.
+          </p>
+
+          <p class="pub-title">Selected publications</p>
+          <ol class="selected-pubs">
+            <li>
+              <strong>Li, Y.</strong>, Otsubo, M., Vasileios, A., Kuwano, R., Nadimi, S. (2025) Exploring the
+              micro-to-macro response of granular soils with real particle shapes by way of µCT-aided DEM
+              analyses. Géotechnique, 75 (13): 54–67.
+            </li>
+            <li>
+              Otsubo, M., <strong>Li, Y.</strong>, Kuwano, R., Nadimi, S., Angelidakis, V. (2025) Contact-scale
+              insights into G0 development of non-spherical particle assembly. Géotechnique, 75(11), 1445-1456.
+            </li>
+            <li>
+              <strong>Li, Y.*</strong>, Otsubo, M., Kuwano, R. (2022) Interpretation of static and dynamic Young’s
+              modulus and Poisson’s ratio of granular assemblies under shearing. Computers and Geotechnics,
+              142:104560.
+            </li>
+          </ol>
+          <a class="all-publications" href="publications.html">View all publications →</a>
+        </div>
+
+        <figure class="research-figure">
+          <img src="assets/research2.png"
+               alt="Image-informed numerical modeling and multiscale mechanics of granular materials">
+        </figure>
+      </section>
+
+      <!-- 03 -->
+      <section class="research-topic">
+        <div class="research-text">
+          <span class="research-number">03 / </span>
+          <h2>Wave-based monitoring of soil structure and mechanical state</h2>
+          <p class="description">
+            Use elastic-wave measurements as a non-destructive probe of granular materials.
+            Link wave velocity to internal fabric, stiffness degradation, the elastic–plastic limit, with the
+            goal of predicting hidden material states.
+          </p>
+
+          <p class="pub-title">Selected publications</p>
+          <ol class="selected-pubs">
+            <li>
+              <strong>Li, Y.*</strong>, Otsubo, M., Kuwano, R. (2024) Elastic waves during continuous triaxial
+              shearing influenced by particle morphology. Soils and Foundations, 64(2), 101443.
+            </li>
+            <li>
+              <strong>Li, Y.*</strong>, Otsubo, M., Kuwano, R. (2023) Evaluation of soil fabric using elastic waves
+              during loadunload. Journal of Rock Mechanics and Geotechnical Engineering, 15(10), 2687–2700.     
+            </li>
+            <li>
+              <strong>Li, Y.</strong>, Otsubo, M., Ghaemi, A., Dutta, T., Kuwano, R. (2022). Transition of
+              gap-graded soil fabric – shear wave measurements and dispersion relation. Soils and Foundations,
+              62(1), 101092.  
+            </li>
+          </ol>
+          <a class="all-publications" href="publications.html">View all publications →</a>
+        </div>
+
+        <figure class="research-figure">
+          <img src="assets/research3.png"
+               alt="Wave-based characterization of soil fabric, elastic-plastic transition and fines content">
+        </figure>
+      </section>
+
+    </div>
+  </main>
+
+  <footer>
+    <span>Yang Li · Granular & geotechnical mechanics</span>
+    <span>© 2026 Yang Li</span>
+  </footer>
+</body>
+</html>
