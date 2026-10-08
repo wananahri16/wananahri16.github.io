@@ -1,0 +1,2511 @@
+{
+  "date": "2026-10-08",
+  "papers": [
+    {
+      "id": 0,
+      "title": "Exploring the micro-to-macro response of granular soils with real particle shapes by way of μCT-aided DEM analyses",
+      "year": "2025",
+      "scholar_authors": "Y Li, M Otsubo, V Angelidakis, R Kuwano, S Nadimi",
+      "authors": [
+        {
+          "name": "Yang Li",
+          "raw_author_name": "Yang Li",
+          "institutions": [
+            "https://openalex.org/I111979921",
+            "https://openalex.org/I74801974"
+          ],
+          "raw_affiliations": [
+            "Northwestern University † McCormick School of Engineering, , Evanston, , ",
+            "The University of Tokyo * Institute of Industrial Science, , Meguro-ku, Tokyo, ",
+            "Institute of Industrial Science, The University of Tokyo, Meguro-ku, Tokyo, Japan",
+            "McCormick School of Engineering, Northwestern University, Evanston, IL, USA"
+          ]
+        },
+        {
+          "name": "Masahide Otsubo",
+          "raw_author_name": "Masahide Otsubo",
+          "institutions": [
+            "https://openalex.org/I4210143417",
+            "https://openalex.org/I74801974"
+          ],
+          "raw_affiliations": [
+            "The University of Tokyo * Institute of Industrial Science, , Meguro-ku, Tokyo, ",
+            "Tsukuba ‡ Public Works Research Institute, , Ibaraki, ",
+            "Institute of Industrial Science, The University of Tokyo, Meguro-ku, Tokyo, Japan",
+            "Public Works Research Institute, Tsukuba, Ibaraki, Japan"
+          ]
+        },
+        {
+          "name": "Vasileios Angelidakis",
+          "raw_author_name": "Vasileios Angelidakis",
+          "institutions": [
+            "https://openalex.org/I126231945",
+            "https://openalex.org/I84884186"
+          ],
+          "raw_affiliations": [
+            "Newcastle University § School of Engineering, , Newcastle upon Tyne, ",
+            "Queen’s University Belfast ∥ School of Natural and Built Environment, , Belfast, ",
+            "School of Engineering, Newcastle University, Newcastle upon Tyne, UK",
+            "School of Natural and Built Environment, Queen's University Belfast, Belfast, UK"
+          ]
+        },
+        {
+          "name": "Reiko Kuwano",
+          "raw_author_name": "Reiko Kuwano",
+          "institutions": [
+            "https://openalex.org/I74801974"
+          ],
+          "raw_affiliations": [
+            "The University of Tokyo * Institute of Industrial Science, , Meguro-ku, Tokyo, ",
+            "Institute of Industrial Science, The University of Tokyo, Meguro-ku, Tokyo, Japan"
+          ]
+        },
+        {
+          "name": "Sadegh Nadimi",
+          "raw_author_name": "Sadegh Nadimi",
+          "institutions": [
+            "https://openalex.org/I84884186"
+          ],
+          "raw_affiliations": [
+            "Newcastle University § School of Engineering, , Newcastle upon Tyne, ",
+            "School of Engineering, Newcastle University, Newcastle upon Tyne, UK"
+          ]
+        }
+      ],
+      "url": "https://doi.org/10.1680/jgeot.23.00162",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Ta3kqSwAAAAJ&pagesize=100&citation_for_view=Ta3kqSwAAAAJ:tS2w5q8j5-wC",
+      "metadata_url": "https://openalex.org/W4393355557",
+      "status": "complete"
+    },
+    {
+      "id": 1,
+      "title": "Quantitative evaluation of surface roughness for granular materials using Gaussian filter method",
+      "year": "2021",
+      "scholar_authors": "Y Li, M Otsubo, R Kuwano, S Nadimi",
+      "authors": [
+        {
+          "name": "Yang Li",
+          "raw_author_name": "Yang Li",
+          "institutions": [
+            "https://openalex.org/I74801974"
+          ],
+          "raw_affiliations": [
+            "Institute of Industrial Science, The University of Tokyo, 4-6-1 Komaba, Meguro-ku, Tokyo 153-8505, Japan"
+          ]
+        },
+        {
+          "name": "Masahide Otsubo",
+          "raw_author_name": "Masahide Otsubo",
+          "institutions": [
+            "https://openalex.org/I74801974"
+          ],
+          "raw_affiliations": [
+            "Institute of Industrial Science, The University of Tokyo, 4-6-1 Komaba, Meguro-ku, Tokyo 153-8505, Japan"
+          ]
+        },
+        {
+          "name": "Reiko Kuwano",
+          "raw_author_name": "Reiko Kuwano",
+          "institutions": [
+            "https://openalex.org/I74801974"
+          ],
+          "raw_affiliations": [
+            "Institute of Industrial Science, The University of Tokyo, 4-6-1 Komaba, Meguro-ku, Tokyo 153-8505, Japan"
+          ]
+        },
+        {
+          "name": "Sadegh Nadimi",
+          "raw_author_name": "Sadegh Nadimi",
+          "institutions": [
+            "https://openalex.org/I84884186"
+          ],
+          "raw_affiliations": [
+            "School of Engineering, Newcastle University, Newcastle upon Tyne NE1 7RU, UK"
+          ]
+        }
+      ],
+      "url": "https://doi.org/10.1016/j.powtec.2021.04.068",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Ta3kqSwAAAAJ&pagesize=100&citation_for_view=Ta3kqSwAAAAJ:KxtntwgDAa4C",
+      "metadata_url": "https://openalex.org/W3158954466",
+      "status": "complete"
+    },
+    {
+      "id": 2,
+      "title": "DEM analysis on the stress wave response of spherical particle assemblies under triaxial compression",
+      "year": "2021",
+      "scholar_authors": "Y Li, M Otsubo, R Kuwano",
+      "authors": [
+        {
+          "name": "Yang Li",
+          "raw_author_name": "Yang Li",
+          "institutions": [
+            "https://openalex.org/I74801974"
+          ],
+          "raw_affiliations": [
+            "Institute of Industrial Science, The University of Tokyo, 4-6-1 Komaba, Meguro-Ku, Tokyo 153-8505, Japan"
+          ]
+        },
+        {
+          "name": "Masahide Otsubo",
+          "raw_author_name": "Masahide Otsubo",
+          "institutions": [
+            "https://openalex.org/I74801974"
+          ],
+          "raw_affiliations": [
+            "Institute of Industrial Science, The University of Tokyo, 4-6-1 Komaba, Meguro-Ku, Tokyo 153-8505, Japan"
+          ]
+        },
+        {
+          "name": "Reiko Kuwano",
+          "raw_author_name": "Reiko Kuwano",
+          "institutions": [
+            "https://openalex.org/I74801974"
+          ],
+          "raw_affiliations": [
+            "Institute of Industrial Science, The University of Tokyo, 4-6-1 Komaba, Meguro-Ku, Tokyo 153-8505, Japan"
+          ]
+        }
+      ],
+      "url": "https://doi.org/10.1016/j.compgeo.2021.104043",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Ta3kqSwAAAAJ&pagesize=100&citation_for_view=Ta3kqSwAAAAJ:nb7KW1ujOQ8C",
+      "metadata_url": "https://openalex.org/W3132292225",
+      "status": "complete"
+    },
+    {
+      "id": 3,
+      "title": "Effect of particle morphology on stress and strain characteristics of granular materials during triaxial compression",
+      "year": "2024",
+      "scholar_authors": "Y Li, M Otsubo, J Liu, R Kuwano",
+      "authors": [
+        {
+          "name": "Yang Li",
+          "raw_author_name": "Yang Li",
+          "institutions": [
+            "https://openalex.org/I111979921",
+            "https://openalex.org/I74801974"
+          ],
+          "raw_affiliations": [
+            "Institute of Industrial Science, The University of Tokyo, 4-6-1 Komaba, Meguro-Ku, Tokyo, 153-8505, Japan",
+            "McCormick School of Engineering, Northwestern University, Evanston, IL, 60202, USA"
+          ]
+        },
+        {
+          "name": "Masahide Otsubo",
+          "raw_author_name": "Masahide Otsubo",
+          "institutions": [
+            "https://openalex.org/I4210143417",
+            "https://openalex.org/I74801974"
+          ],
+          "raw_affiliations": [
+            "Institute of Industrial Science, The University of Tokyo, 4-6-1 Komaba, Meguro-Ku, Tokyo, 153-8505, Japan",
+            "Public Works Research Institute, 1-6 Minamihara, Tsukuba, Ibaraki, 305-8516, Japan"
+          ]
+        },
+        {
+          "name": "Junming Liu",
+          "raw_author_name": "Junming Liu",
+          "institutions": [
+            "https://openalex.org/I74801974"
+          ],
+          "raw_affiliations": [
+            "Institute of Industrial Science, The University of Tokyo, 4-6-1 Komaba, Meguro-Ku, Tokyo, 153-8505, Japan"
+          ]
+        },
+        {
+          "name": "Reiko Kuwano",
+          "raw_author_name": "Reiko Kuwano",
+          "institutions": [
+            "https://openalex.org/I74801974"
+          ],
+          "raw_affiliations": [
+            "Institute of Industrial Science, The University of Tokyo, 4-6-1 Komaba, Meguro-Ku, Tokyo, 153-8505, Japan"
+          ]
+        }
+      ],
+      "url": "https://doi.org/10.1007/s11440-023-02190-y",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Ta3kqSwAAAAJ&pagesize=100&citation_for_view=Ta3kqSwAAAAJ:l7t_Zn2s7bgC",
+      "metadata_url": "https://openalex.org/W4390612018",
+      "status": "complete"
+    },
+    {
+      "id": 4,
+      "title": "Transition of gap-graded soil fabric–shear wave measurements and dispersion relation",
+      "year": "2022",
+      "scholar_authors": "Y Li, M Otsubo, A Ghaemi, TT Dutta, R Kuwano",
+      "authors": [
+        {
+          "name": "Yang Li",
+          "raw_author_name": "Yang Li",
+          "institutions": [
+            "https://openalex.org/I74801974"
+          ],
+          "raw_affiliations": [
+            "Institute of Industrial Science, The University of Tokyo, Japan"
+          ]
+        },
+        {
+          "name": "Masahide Otsubo",
+          "raw_author_name": "Masahide Otsubo",
+          "institutions": [
+            "https://openalex.org/I74801974"
+          ],
+          "raw_affiliations": [
+            "Institute of Industrial Science, The University of Tokyo, Japan"
+          ]
+        },
+        {
+          "name": "Arian Ghaemi",
+          "raw_author_name": "Arian Ghaemi",
+          "institutions": [
+            "https://openalex.org/I74801974"
+          ],
+          "raw_affiliations": [
+            "Institute of Industrial Science, The University of Tokyo, Japan"
+          ]
+        },
+        {
+          "name": "Troyee Tanu Dutta",
+          "raw_author_name": "Troyee Tanu Dutta",
+          "institutions": [
+            "https://openalex.org/I56590836"
+          ],
+          "raw_affiliations": [
+            "Department of Civil Engineering, Monash University, Australia"
+          ]
+        },
+        {
+          "name": "Reiko Kuwano",
+          "raw_author_name": "Reiko Kuwano",
+          "institutions": [
+            "https://openalex.org/I74801974"
+          ],
+          "raw_affiliations": [
+            "Institute of Industrial Science, The University of Tokyo, Japan"
+          ]
+        }
+      ],
+      "url": "https://doi.org/10.1016/j.sandf.2021.101092",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Ta3kqSwAAAAJ&pagesize=100&citation_for_view=Ta3kqSwAAAAJ:p2g8aNsByqUC",
+      "metadata_url": "https://openalex.org/W4200595546",
+      "status": "complete"
+    },
+    {
+      "id": 5,
+      "title": "Shape-induced clusters of ellipsoids during triaxial compression: A multiscale analysis using LS-DEM",
+      "year": "2024",
+      "scholar_authors": "H Jiang, R Kawamoto, Y Li",
+      "authors": [
+        {
+          "name": "Haoran Jiang",
+          "raw_author_name": "Haoran Jiang",
+          "institutions": [
+            "https://openalex.org/I146399215"
+          ],
+          "raw_affiliations": [
+            "Department of Engineering Mechanics and Energy, University of Tsukuba, Tsukuba, Ibaraki, 305-8573, Japan"
+          ]
+        },
+        {
+          "name": "Reid Y. Kawamoto",
+          "raw_author_name": "Reid Kawamoto",
+          "institutions": [
+            "https://openalex.org/I146399215"
+          ],
+          "raw_affiliations": [
+            "Department of Engineering Mechanics and Energy, University of Tsukuba, Tsukuba, Ibaraki, 305-8573, Japan"
+          ]
+        },
+        {
+          "name": "Yang Li",
+          "raw_author_name": "Yang Li",
+          "institutions": [
+            "https://openalex.org/I111979921"
+          ],
+          "raw_affiliations": [
+            "Department of Civil and Environmental Engineering, Northwestern University, Evanston, IL, 60208, USA"
+          ]
+        }
+      ],
+      "url": "https://doi.org/10.1016/j.compgeo.2024.106235",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Ta3kqSwAAAAJ&pagesize=100&citation_for_view=Ta3kqSwAAAAJ:vRqMK49ujn8C",
+      "metadata_url": "https://openalex.org/W4392935275",
+      "status": "complete"
+    },
+    {
+      "id": 6,
+      "title": "Analyzing the mechanical behavior of granular materials: A multi-morphological approach using spherical harmonics and LS-DEM",
+      "year": "2024",
+      "scholar_authors": "H Jiang, OC Debanath, F Chen, R Kawamoto, Y Li",
+      "authors": [
+        {
+          "name": "Haoran Jiang",
+          "raw_author_name": "Haoran Jiang",
+          "institutions": [
+            "https://openalex.org/I146399215"
+          ],
+          "raw_affiliations": [
+            "Department of Engineering Mechanics and Energy, University of Tsukuba, Tsukuba, Ibaraki, 305-8573, Japan"
+          ]
+        },
+        {
+          "name": "Opu Chandra Debanath",
+          "raw_author_name": "Opu Chandra Debanath",
+          "institutions": [
+            "https://openalex.org/I102782458",
+            "https://openalex.org/I146399215"
+          ],
+          "raw_affiliations": [
+            "Department of Civil Engineering, Chittagong University of Engineering and Technology (CUET), Chattogram 4349, Bangladesh",
+            "Department of Engineering Mechanics and Energy, University of Tsukuba, Tsukuba, Ibaraki, 305-8573, Japan"
+          ]
+        },
+        {
+          "name": "Fan Chen",
+          "raw_author_name": "Fan Chen",
+          "institutions": [
+            "https://openalex.org/I4405263741"
+          ],
+          "raw_affiliations": [
+            "INRAE, Aix Marseille University, RECOVER, Route Cézanne, Aix-en-Provence, 13182, France"
+          ]
+        },
+        {
+          "name": "Reid Y. Kawamoto",
+          "raw_author_name": "Reid Kawamoto",
+          "institutions": [
+            "https://openalex.org/I146399215"
+          ],
+          "raw_affiliations": [
+            "Department of Engineering Mechanics and Energy, University of Tsukuba, Tsukuba, Ibaraki, 305-8573, Japan"
+          ]
+        },
+        {
+          "name": "Yang Li",
+          "raw_author_name": "Yang Li",
+          "institutions": [
+            "https://openalex.org/I111979921"
+          ],
+          "raw_affiliations": [
+            "Department of Civil and Environmental Engineering, Northwestern University, Evanston, IL, 60208, USA"
+          ]
+        }
+      ],
+      "url": "https://doi.org/10.1016/j.powtec.2024.120078",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Ta3kqSwAAAAJ&pagesize=100&citation_for_view=Ta3kqSwAAAAJ:8AbLer7MMksC",
+      "metadata_url": "https://openalex.org/W4400520312",
+      "status": "complete"
+    },
+    {
+      "id": 7,
+      "title": "Interpretation of static and dynamic Young’s moduli and Poisson’s ratio of granular assemblies under shearing",
+      "year": "2022",
+      "scholar_authors": "Y Li, M Otsubo, R Kuwano",
+      "authors": [
+        {
+          "name": "Yang Li",
+          "raw_author_name": "Yang Li",
+          "institutions": [
+            "https://openalex.org/I74801974"
+          ],
+          "raw_affiliations": [
+            "Institute of Industrial Science, The University of Tokyo, 4-6-1 Komaba, Meguro-Ku, Tokyo 153-8505, Japan"
+          ]
+        },
+        {
+          "name": "Masahide Otsubo",
+          "raw_author_name": "Masahide Otsubo",
+          "institutions": [
+            "https://openalex.org/I74801974"
+          ],
+          "raw_affiliations": [
+            "Institute of Industrial Science, The University of Tokyo, 4-6-1 Komaba, Meguro-Ku, Tokyo 153-8505, Japan"
+          ]
+        },
+        {
+          "name": "Reiko Kuwano",
+          "raw_author_name": "Reiko Kuwano",
+          "institutions": [
+            "https://openalex.org/I74801974"
+          ],
+          "raw_affiliations": [
+            "Institute of Industrial Science, The University of Tokyo, 4-6-1 Komaba, Meguro-Ku, Tokyo 153-8505, Japan"
+          ]
+        }
+      ],
+      "url": "https://doi.org/10.1016/j.compgeo.2021.104560",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Ta3kqSwAAAAJ&pagesize=100&citation_for_view=Ta3kqSwAAAAJ:OU6Ihb5iCvQC",
+      "metadata_url": "https://openalex.org/W4200127626",
+      "status": "complete"
+    },
+    {
+      "id": 8,
+      "title": "Numerical identification of size-shape-strength attractors in sheared breakable granular materials",
+      "year": "2026",
+      "scholar_authors": "H Jiang, Y Li, Q Huang, D Xue, G Buscarnera",
+      "authors": [
+        {
+          "name": "Haoran Jiang",
+          "raw_author_name": "Haoran Jiang",
+          "institutions": [
+            "https://openalex.org/I175360629"
+          ],
+          "raw_affiliations": [
+            "Civil Engineering Design Division, Kajima Corporation, 3-8, Motoakasaka, 1-chome, Minato-ku, Tokyo, 107-8477, Japan"
+          ]
+        },
+        {
+          "name": "Yang Li",
+          "raw_author_name": "Yang Li",
+          "institutions": [
+            "https://openalex.org/I135598925"
+          ],
+          "raw_affiliations": [
+            "Department of Civil Engineering, Kyushu University, Fukuoka, 819-0395, Japan"
+          ]
+        },
+        {
+          "name": "Quanshui Huang",
+          "raw_author_name": "Quanshui Huang",
+          "institutions": [
+            "https://openalex.org/I78978612"
+          ],
+          "raw_affiliations": [
+            "College of Hydraulic Science and Engineering, Yangzhou University, Yangzhou, Jiangsu, 225009, China"
+          ]
+        },
+        {
+          "name": "Dawei Xue",
+          "raw_author_name": "Dawei Xue",
+          "institutions": [
+            "https://openalex.org/I116953780"
+          ],
+          "raw_affiliations": [
+            "Key Laboratory of Geotechnical and Underground Engineering of Ministry of Education, Department of Geotechnical Engineering, Tongji University, Shanghai 200092, China"
+          ]
+        },
+        {
+          "name": "Giuseppe Buscarnera",
+          "raw_author_name": "Giuseppe Buscarnera",
+          "institutions": [
+            "https://openalex.org/I111979921"
+          ],
+          "raw_affiliations": [
+            "Department of Civil and Environmental Engineering, Northwestern University, Evanston, IL, 60208, USA"
+          ]
+        }
+      ],
+      "url": "https://doi.org/10.1016/j.compgeo.2025.107709",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Ta3kqSwAAAAJ&pagesize=100&citation_for_view=Ta3kqSwAAAAJ:mvPsJ3kp5DgC",
+      "metadata_url": "https://openalex.org/W7092357052",
+      "status": "complete"
+    },
+    {
+      "id": 9,
+      "title": "Horizontal transient response of a pile group partially embedded in multilayered transversely isotropic soils",
+      "year": "2021",
+      "scholar_authors": "Y Li, ZY Ai",
+      "authors": [
+        {
+          "name": "Yang Li",
+          "raw_author_name": "Yang Li",
+          "institutions": [
+            "https://openalex.org/I116953780"
+          ],
+          "raw_affiliations": [
+            "Department of Geotechnical Engineering, Key Laboratory of Geotechnical and Underground Engineering of Ministry of Education, College of Civil Engineering, Tongji University, Shanghai, China"
+          ]
+        },
+        {
+          "name": "Zhi Yong Ai",
+          "raw_author_name": "Zhi Yong Ai",
+          "institutions": [
+            "https://openalex.org/I116953780"
+          ],
+          "raw_affiliations": [
+            "Department of Geotechnical Engineering, Key Laboratory of Geotechnical and Underground Engineering of Ministry of Education, College of Civil Engineering, Tongji University, Shanghai, China"
+          ]
+        }
+      ],
+      "url": "https://doi.org/10.1007/s11440-020-01023-6",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Ta3kqSwAAAAJ&pagesize=100&citation_for_view=Ta3kqSwAAAAJ:CHSYGLWDkRkC",
+      "metadata_url": "https://openalex.org/W3042846338",
+      "status": "complete"
+    },
+    {
+      "id": 10,
+      "title": "Dynamic column collapse of dry granular materials with multi-scale shape characteristics",
+      "year": "2025",
+      "scholar_authors": "H Jiang, J Nie, OC Debanath, Y Li",
+      "authors": [
+        {
+          "name": "Haoran Jiang",
+          "raw_author_name": "Haoran Jiang",
+          "institutions": [
+            "https://openalex.org/I175360629"
+          ],
+          "raw_affiliations": [
+            "Civil Engineering Design Division, Kajima Corporation, 3-8, Motoakasaka, 1-chome, Minato-ku, Tokyo, 107-8477, Japan"
+          ]
+        },
+        {
+          "name": "Jiayan Nie",
+          "raw_author_name": "Jiayan Nie",
+          "institutions": [
+            "https://openalex.org/I37461747"
+          ],
+          "raw_affiliations": [
+            "School of Civil Engineering, Wuhan University, Wuhan 430072, PR China"
+          ]
+        },
+        {
+          "name": "Opu Chandra Debanath",
+          "raw_author_name": "Opu Chandra Debanath",
+          "institutions": [
+            "https://openalex.org/I102782458"
+          ],
+          "raw_affiliations": [
+            "Department of Civil Engineering, Chittagong University of Engineering and Technology, Chattogram 4349, Bangladesh"
+          ]
+        },
+        {
+          "name": "Yang Li",
+          "raw_author_name": "Yang Li",
+          "institutions": [
+            "https://openalex.org/I111979921"
+          ],
+          "raw_affiliations": [
+            "Department of Civil and Environmental Engineering, Northwestern University, Evanston, IL, 60208, USA"
+          ]
+        }
+      ],
+      "url": "https://doi.org/10.1016/j.compgeo.2024.106873",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Ta3kqSwAAAAJ&pagesize=100&citation_for_view=Ta3kqSwAAAAJ:VOx2b1Wkg3QC",
+      "metadata_url": "https://openalex.org/W4404134940",
+      "status": "complete"
+    },
+    {
+      "id": 11,
+      "title": "Evaluation of soil fabric using elastic waves during load-unload",
+      "year": "2023",
+      "scholar_authors": "Y Li, M Otsubo, R Kuwano",
+      "authors": [
+        {
+          "name": "Yang Li",
+          "raw_author_name": "Yang Li",
+          "institutions": [
+            "https://openalex.org/I74801974"
+          ],
+          "raw_affiliations": [
+            "Institute of Industrial Science, The University of Tokyo, 4-6-1 Komaba, Meguro-ku, Tokyo, 153-8505, Japan"
+          ]
+        },
+        {
+          "name": "Masahide Otsubo",
+          "raw_author_name": "Masahide Otsubo",
+          "institutions": [
+            "https://openalex.org/I4210143417",
+            "https://openalex.org/I74801974"
+          ],
+          "raw_affiliations": [
+            "Institute of Industrial Science, The University of Tokyo, 4-6-1 Komaba, Meguro-ku, Tokyo, 153-8505, Japan",
+            "Public Works Research Institute, 1-6 Minamihara, Tsukuba, Ibaraki, 305-8516, Japan"
+          ]
+        },
+        {
+          "name": "Reiko Kuwano",
+          "raw_author_name": "Reiko Kuwano",
+          "institutions": [
+            "https://openalex.org/I74801974"
+          ],
+          "raw_affiliations": [
+            "Institute of Industrial Science, The University of Tokyo, 4-6-1 Komaba, Meguro-ku, Tokyo, 153-8505, Japan"
+          ]
+        }
+      ],
+      "url": "https://doi.org/10.1016/j.jrmge.2022.12.004",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Ta3kqSwAAAAJ&pagesize=100&citation_for_view=Ta3kqSwAAAAJ:WbkHhVStYXYC",
+      "metadata_url": "https://openalex.org/W4313333979",
+      "status": "complete"
+    },
+    {
+      "id": 12,
+      "title": "Quasti-static response of a multilayered transversely isotropic porothermoelastic material subjected to a cylindrical heat source",
+      "year": "2019",
+      "scholar_authors": "ZY Ai, Z Ye, Y Li",
+      "authors": [
+        {
+          "name": "Zhi Yong Ai",
+          "raw_author_name": "Zhi Yong Ai",
+          "institutions": [
+            "https://openalex.org/I116953780"
+          ],
+          "raw_affiliations": [
+            "Department of Geotechnical Engineering, Key Laboratory of Geotechnical and Underground Engineering of Ministry of Education, College of Civil Engineering, Tongji University, 1239 Siping Road, Shanghai 20092, China"
+          ]
+        },
+        {
+          "name": "Zi Ye",
+          "raw_author_name": "Zi Ye",
+          "institutions": [
+            "https://openalex.org/I116953780"
+          ],
+          "raw_affiliations": [
+            "Department of Geotechnical Engineering, Key Laboratory of Geotechnical and Underground Engineering of Ministry of Education, College of Civil Engineering, Tongji University, 1239 Siping Road, Shanghai 20092, China"
+          ]
+        },
+        {
+          "name": "Yang Li",
+          "raw_author_name": "Yang Li",
+          "institutions": [
+            "https://openalex.org/I116953780"
+          ],
+          "raw_affiliations": [
+            "Department of Geotechnical Engineering, Key Laboratory of Geotechnical and Underground Engineering of Ministry of Education, College of Civil Engineering, Tongji University, 1239 Siping Road, Shanghai 20092, China"
+          ]
+        }
+      ],
+      "url": "https://doi.org/10.1016/j.compgeo.2018.11.024",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Ta3kqSwAAAAJ&pagesize=100&citation_for_view=Ta3kqSwAAAAJ:xtRiw3GOFMkC",
+      "metadata_url": "https://openalex.org/W2903573210",
+      "status": "complete"
+    },
+    {
+      "id": 13,
+      "title": "Exploring the micromechanical origin of shear response in granular materials induced by size non-uniformity: Y. Li et al.",
+      "year": "2024",
+      "scholar_authors": "Y Li, Y Dong, H Jiang, Z Shi",
+      "authors": [
+        {
+          "name": "Yang Li",
+          "raw_author_name": "Yang Li",
+          "institutions": [
+            "https://openalex.org/I111979921"
+          ],
+          "raw_affiliations": [
+            "Department of Civil and Environmental Engineering, Northwestern University, 2145 Sheridan Road, Evanston, IL, 60208, USA"
+          ]
+        },
+        {
+          "name": "Yang Dong",
+          "raw_author_name": "Yang Dong",
+          "institutions": [],
+          "raw_affiliations": [
+            "Industrial Technology Research Institute, China Construction Steel Structure Corporation Limited, 2009 Pingshan Avenue, Shenzhen, 518118, Guangdong, China"
+          ]
+        },
+        {
+          "name": "Haoran Jiang",
+          "raw_author_name": "Haoran Jiang",
+          "institutions": [
+            "https://openalex.org/I175360629"
+          ],
+          "raw_affiliations": [
+            "Civil Engineering Design Division, Kajima Corporation, 3-8, Motoakasaka, 1-chome, Minato-ku, Tokyo, 107-8477, Japan"
+          ]
+        },
+        {
+          "name": "Zhenming Shi",
+          "raw_author_name": "Zhenming Shi",
+          "institutions": [
+            "https://openalex.org/I116953780"
+          ],
+          "raw_affiliations": [
+            "Department of Geotechnical Engineering, Key Laboratory of Geotechnical and Underground Engineering of Ministry of Education, State Key Laboratory for Disaster Reduction in Civil Engineering, Tongji University, 1239 Siping Road, Shanghai, 200092, China"
+          ]
+        }
+      ],
+      "url": "https://doi.org/10.1007/s10035-024-01472-w",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Ta3kqSwAAAAJ&pagesize=100&citation_for_view=Ta3kqSwAAAAJ:5Ul4iDaHHb8C",
+      "metadata_url": "https://openalex.org/W4403209477",
+      "status": "partial"
+    },
+    {
+      "id": 14,
+      "title": "Transient analysis of a fixed-head pile group in multi-layered transversely isotropic media due to horizontal loadings",
+      "year": "2020",
+      "scholar_authors": "Y Li, ZY Ai",
+      "authors": [
+        {
+          "name": "Yang Li",
+          "raw_author_name": "Yang Li",
+          "institutions": [
+            "https://openalex.org/I116953780"
+          ],
+          "raw_affiliations": [
+            "Department of Geotechnical Engineering, Key Laboratory of Geotechnical and Underground Engineering of Ministry of Education, College of Civil Engineering, Tongji University, Shanghai, China"
+          ]
+        },
+        {
+          "name": "Zhi Yong Ai",
+          "raw_author_name": "Zhi Yong Ai",
+          "institutions": [
+            "https://openalex.org/I116953780"
+          ],
+          "raw_affiliations": [
+            "Department of Geotechnical Engineering, Key Laboratory of Geotechnical and Underground Engineering of Ministry of Education, College of Civil Engineering, Tongji University, Shanghai, China"
+          ]
+        }
+      ],
+      "url": "https://doi.org/10.1016/j.compgeo.2020.103772",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Ta3kqSwAAAAJ&pagesize=100&citation_for_view=Ta3kqSwAAAAJ:1sJd4Hv_s6UC",
+      "metadata_url": "https://openalex.org/W3047304049",
+      "status": "complete"
+    },
+    {
+      "id": 15,
+      "title": "Contact-scale insights into the shear stiffness of non-spherical granular materials",
+      "year": "2025",
+      "scholar_authors": "M Otsubo, Y Li, R Kuwano, S Nadimi, V Angelidakis",
+      "authors": [
+        {
+          "name": "Masahide Otsubo",
+          "raw_author_name": "Masahide Otsubo",
+          "institutions": [
+            "https://openalex.org/I4210155417",
+            "https://openalex.org/I74801974"
+          ],
+          "raw_affiliations": [
+            "Port and Airport Research Institute * , Yokosuka, ",
+            "The University of Tokyo † Institute of Industrial Science, , Meguro-ku, ",
+            "Institute of Industrial Science, The University of Tokyo, 4-6-1 Komaba, Meguro-ku, Tokyo, 153-8505, Japan",
+            "Port and Airport Research Institute, 3-1-1 Nagase, Yokosuka, Kanagawa, 239-0826, Japan"
+          ]
+        },
+        {
+          "name": "Yang Li",
+          "raw_author_name": "Yang Li",
+          "institutions": [
+            "https://openalex.org/I111979921",
+            "https://openalex.org/I74801974"
+          ],
+          "raw_affiliations": [
+            "Northwestern University ‡ McCormick School of Engineering, , Evanston, , ",
+            "The University of Tokyo † Institute of Industrial Science, , Meguro-ku, ",
+            "Institute of Industrial Science, The University of Tokyo, 4-6-1 Komaba, Meguro-ku, Tokyo, 153-8505, Japan",
+            "McCormick School of Engineering, Northwestern University, 2145 Sheridan Rd. Evanston, IL, USA"
+          ]
+        },
+        {
+          "name": "Reiko Kuwano",
+          "raw_author_name": "Reiko Kuwano",
+          "institutions": [
+            "https://openalex.org/I74801974"
+          ],
+          "raw_affiliations": [
+            "The University of Tokyo † Institute of Industrial Science, , Meguro-ku, ",
+            "Institute of Industrial Science, The University of Tokyo, 4-6-1 Komaba, Meguro-ku, Tokyo, 153-8505, Japan"
+          ]
+        },
+        {
+          "name": "Sadegh Nadimi",
+          "raw_author_name": "Sadegh Nadimi",
+          "institutions": [
+            "https://openalex.org/I84884186"
+          ],
+          "raw_affiliations": [
+            "Newcastle University § School of Engineering, , Newcastle upon Tyne, ",
+            "School of Engineering, Newcastle University, Newcastle upon Tyne, NE1 7RU, UK"
+          ]
+        },
+        {
+          "name": "Vasileios Angelidakis",
+          "raw_author_name": "Vasileios Angelidakis",
+          "institutions": [
+            "https://openalex.org/I126231945",
+            "https://openalex.org/I84884186"
+          ],
+          "raw_affiliations": [
+            "Newcastle University § School of Engineering, , Newcastle upon Tyne, ",
+            "Queen's University Belfast ‖ School of Natural and Built Environment, , Belfast, ",
+            "School of Engineering, Newcastle University, Newcastle upon Tyne, NE1 7RU, UK",
+            "School of Natural and Built Environment, Queen's University Belfast, Belfast BT9 5AG, UK"
+          ]
+        }
+      ],
+      "url": "https://doi.org/10.1680/jgeot.23.00042",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Ta3kqSwAAAAJ&pagesize=100&citation_for_view=Ta3kqSwAAAAJ:D_sINldO8mEC",
+      "metadata_url": "https://openalex.org/W4407134888",
+      "status": "complete"
+    },
+    {
+      "id": 16,
+      "title": "Dynamic response of saturated multilayered soils with elastic superstrata subjected to vertical impulsive loadings",
+      "year": "2021",
+      "scholar_authors": "ZY Ai, WT Ji, Y Li, HT Li",
+      "authors": [
+        {
+          "name": "Zhi Yong Ai",
+          "raw_author_name": "Zhi Yong Ai",
+          "institutions": [
+            "https://openalex.org/I116953780"
+          ],
+          "raw_affiliations": [
+            "Department of Geotechnical Engineering, Key Laboratory of Geotechnical and Underground Engineering of Ministry of Education, College of Civil Engineering, Tongji University, 1239 Siping Road, Shanghai 200092, P R China"
+          ]
+        },
+        {
+          "name": "Wei Tao Ji",
+          "raw_author_name": "Wei Tao Ji",
+          "institutions": [
+            "https://openalex.org/I116953780"
+          ],
+          "raw_affiliations": [
+            "Department of Geotechnical Engineering, Key Laboratory of Geotechnical and Underground Engineering of Ministry of Education, College of Civil Engineering, Tongji University, 1239 Siping Road, Shanghai 200092, P R China"
+          ]
+        },
+        {
+          "name": "Yang Li",
+          "raw_author_name": "Yang Li",
+          "institutions": [
+            "https://openalex.org/I116953780"
+          ],
+          "raw_affiliations": [
+            "Department of Geotechnical Engineering, Key Laboratory of Geotechnical and Underground Engineering of Ministry of Education, College of Civil Engineering, Tongji University, 1239 Siping Road, Shanghai 200092, P R China"
+          ]
+        },
+        {
+          "name": "Haitao Li",
+          "raw_author_name": "Hai Tao Li",
+          "institutions": [
+            "https://openalex.org/I116953780"
+          ],
+          "raw_affiliations": [
+            "Department of Geotechnical Engineering, Key Laboratory of Geotechnical and Underground Engineering of Ministry of Education, College of Civil Engineering, Tongji University, 1239 Siping Road, Shanghai 200092, P R China"
+          ]
+        }
+      ],
+      "url": "https://doi.org/10.1016/j.apm.2020.09.019",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Ta3kqSwAAAAJ&pagesize=100&citation_for_view=Ta3kqSwAAAAJ:P5F9QuxV20EC",
+      "metadata_url": "https://openalex.org/W3089726034",
+      "status": "complete"
+    },
+    {
+      "id": 17,
+      "title": "X-ray microtomography measurements of coevolving particle size and shape",
+      "year": "2025",
+      "scholar_authors": "Y Li, S Singh, G Buscarnera",
+      "authors": [
+        {
+          "name": "Yang Li",
+          "raw_author_name": "Yang Li",
+          "institutions": [
+            "https://openalex.org/I111979921"
+          ],
+          "raw_affiliations": [
+            "Northwestern Univ"
+          ]
+        },
+        {
+          "name": "Shubjot Singh",
+          "raw_author_name": "Shubjot Singh",
+          "institutions": [
+            "https://openalex.org/I111979921"
+          ],
+          "raw_affiliations": [
+            "Northwestern Univ"
+          ]
+        },
+        {
+          "name": "Giuseppe Buscarnera",
+          "raw_author_name": "Giuseppe Buscarnera",
+          "institutions": [
+            "https://openalex.org/I111979921"
+          ],
+          "raw_affiliations": [
+            "Northwestern Univ"
+          ]
+        }
+      ],
+      "url": "https://doi.org/10.1061/jggefk.gteng-13362",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Ta3kqSwAAAAJ&pagesize=100&citation_for_view=Ta3kqSwAAAAJ:q3oQSFYPqjQC",
+      "metadata_url": "https://openalex.org/W4412662339",
+      "status": "complete"
+    },
+    {
+      "id": 18,
+      "title": "Transient dynamic response of multilayered saturated media subjected to impulsive loadings",
+      "year": "2018",
+      "scholar_authors": "ZY Ai, Y Li, JJ Mu, HT Li",
+      "authors": [
+        {
+          "name": "Zhi Yong Ai",
+          "raw_author_name": "Zhi Yong Ai",
+          "institutions": [
+            "https://openalex.org/I116953780"
+          ],
+          "raw_affiliations": [
+            "Department of Geotechnical Engineering, Key Laboratory of Geotechnical and Underground Engineering of Ministry of Education, College of Civil Engineering Tongji University  1239 Siping Road Shanghai 200092 China",
+            "Department of Geotechnical Engineering, Key Laboratory of Geotechnical and Underground Engineering of Ministry of Education, College of Civil Engineering, Tongji University, 1239 Siping Road, Shanghai, 200092 China"
+          ]
+        },
+        {
+          "name": "Yang Li",
+          "raw_author_name": "Yang Li",
+          "institutions": [
+            "https://openalex.org/I116953780"
+          ],
+          "raw_affiliations": [
+            "Department of Geotechnical Engineering, Key Laboratory of Geotechnical and Underground Engineering of Ministry of Education, College of Civil Engineering Tongji University  1239 Siping Road Shanghai 200092 China",
+            "Department of Geotechnical Engineering, Key Laboratory of Geotechnical and Underground Engineering of Ministry of Education, College of Civil Engineering, Tongji University, 1239 Siping Road, Shanghai, 200092 China"
+          ]
+        },
+        {
+          "name": "Jin Jing Mu",
+          "raw_author_name": "Jin Jing Mu",
+          "institutions": [
+            "https://openalex.org/I116953780"
+          ],
+          "raw_affiliations": [
+            "Department of Geotechnical Engineering, Key Laboratory of Geotechnical and Underground Engineering of Ministry of Education, College of Civil Engineering Tongji University  1239 Siping Road Shanghai 200092 China",
+            "Department of Geotechnical Engineering, Key Laboratory of Geotechnical and Underground Engineering of Ministry of Education, College of Civil Engineering, Tongji University, 1239 Siping Road, Shanghai, 200092 China"
+          ]
+        },
+        {
+          "name": "Haitao Li",
+          "raw_author_name": "Hai Tao Li",
+          "institutions": [
+            "https://openalex.org/I116953780"
+          ],
+          "raw_affiliations": [
+            "Department of Geotechnical Engineering, Key Laboratory of Geotechnical and Underground Engineering of Ministry of Education, College of Civil Engineering Tongji University  1239 Siping Road Shanghai 200092 China",
+            "Department of Geotechnical Engineering, Key Laboratory of Geotechnical and Underground Engineering of Ministry of Education, College of Civil Engineering, Tongji University, 1239 Siping Road, Shanghai, 200092 China"
+          ]
+        }
+      ],
+      "url": "https://doi.org/10.1002/nag.2785",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Ta3kqSwAAAAJ&pagesize=100&citation_for_view=Ta3kqSwAAAAJ:NhqRSupF_l8C",
+      "metadata_url": "https://openalex.org/W2794710295",
+      "status": "complete"
+    },
+    {
+      "id": 19,
+      "title": "Investigating rotational characteristics and contact mechanisms of star-like shapes using multiellipse-based DEM",
+      "year": "2025",
+      "scholar_authors": "Y Li, H Jiang",
+      "authors": [
+        {
+          "name": "Yang Li",
+          "raw_author_name": "Yang Li",
+          "institutions": [
+            "https://openalex.org/I111979921"
+          ],
+          "raw_affiliations": [
+            "Department of Civil and Environmental Engineering, Northwestern University, Evanston, IL, 60208, USA"
+          ]
+        },
+        {
+          "name": "Haoran Jiang",
+          "raw_author_name": "Haoran Jiang",
+          "institutions": [
+            "https://openalex.org/I175360629"
+          ],
+          "raw_affiliations": [
+            "Civil Engineering Design Division, Kajima Corporation, 3-8, Motoakasaka, 1-chome, Minato-ku, Tokyo, 107-8477, Japan"
+          ]
+        }
+      ],
+      "url": "https://doi.org/10.1016/j.partic.2025.03.001",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Ta3kqSwAAAAJ&pagesize=100&citation_for_view=Ta3kqSwAAAAJ:eflP2zaiRacC",
+      "metadata_url": "https://openalex.org/W4408397688",
+      "status": "complete"
+    },
+    {
+      "id": 20,
+      "title": "Behavior of a multilayered transversely isotropic half space due to horizontal transient loadings",
+      "year": "2018",
+      "scholar_authors": "ZY Ai, Y Li, CL Liu",
+      "authors": [
+        {
+          "name": "Zhi Yong Ai",
+          "raw_author_name": "Zhi Yong Ai",
+          "institutions": [
+            "https://openalex.org/I116953780"
+          ],
+          "raw_affiliations": [
+            "Department of Geotechnical Engineering, Key Laboratory of Geotechnical and Underground Engineering of Ministry of Education, College of Civil Engineering, Tongji University, Shanghai, China"
+          ]
+        },
+        {
+          "name": "Yang Li",
+          "raw_author_name": "Yang Li",
+          "institutions": [
+            "https://openalex.org/I116953780"
+          ],
+          "raw_affiliations": [
+            "Department of Geotechnical Engineering, Key Laboratory of Geotechnical and Underground Engineering of Ministry of Education, College of Civil Engineering, Tongji University, Shanghai, China"
+          ]
+        },
+        {
+          "name": "Chun Lin Liu",
+          "raw_author_name": "Chun Lin Liu",
+          "institutions": [
+            "https://openalex.org/I116953780"
+          ],
+          "raw_affiliations": [
+            "Department of Geotechnical Engineering, Key Laboratory of Geotechnical and Underground Engineering of Ministry of Education, College of Civil Engineering, Tongji University, Shanghai, China"
+          ]
+        }
+      ],
+      "url": "https://doi.org/10.1016/j.compgeo.2018.01.004",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Ta3kqSwAAAAJ&pagesize=100&citation_for_view=Ta3kqSwAAAAJ:abG-DnoFyZgC",
+      "metadata_url": "https://openalex.org/W2794317088",
+      "status": "complete"
+    },
+    {
+      "id": 21,
+      "title": "Vertical dynamic analysis of a rigid disc in a layered transversely isotropic unsaturated soil",
+      "year": "2024",
+      "scholar_authors": "Z Ye, R Su, ZY Ai, Y Chen, Y Li, D Xue",
+      "authors": [
+        {
+          "name": "Zi Ye",
+          "raw_author_name": "Zi Ye",
+          "institutions": [
+            "https://openalex.org/I163340411"
+          ],
+          "raw_affiliations": [
+            "Key Laboratory of Ministry of Education for Geomechanics and Embankment Engineering, Hohai University, Nanjing 210098, China",
+            "Research Institute of Geotechnical Engineering, Hohai University, Nanjing 210098, China"
+          ]
+        },
+        {
+          "name": "Ruobin Su",
+          "raw_author_name": "Ruobin Su",
+          "institutions": [
+            "https://openalex.org/I163340411"
+          ],
+          "raw_affiliations": [
+            "Key Laboratory of Ministry of Education for Geomechanics and Embankment Engineering, Hohai University, Nanjing 210098, China",
+            "Research Institute of Geotechnical Engineering, Hohai University, Nanjing 210098, China"
+          ]
+        },
+        {
+          "name": "Zhi Yong Ai",
+          "raw_author_name": "Zhi Yong Ai",
+          "institutions": [
+            "https://openalex.org/I116953780"
+          ],
+          "raw_affiliations": [
+            "Key Laboratory of Geotechnical and Underground Engineering of Ministry of Education, Tongji University, Shanghai 200092, China"
+          ]
+        },
+        {
+          "name": "Yonghui Chen",
+          "raw_author_name": "Yonghui Chen",
+          "institutions": [
+            "https://openalex.org/I163340411"
+          ],
+          "raw_affiliations": [
+            "Key Laboratory of Ministry of Education for Geomechanics and Embankment Engineering, Hohai University, Nanjing 210098, China",
+            "Research Institute of Geotechnical Engineering, Hohai University, Nanjing 210098, China"
+          ]
+        },
+        {
+          "name": "Yang Li",
+          "raw_author_name": "Yang Li",
+          "institutions": [
+            "https://openalex.org/I111979921"
+          ],
+          "raw_affiliations": [
+            "McCormick School of Engineering, Northwestern University, Evanston, IL, USA"
+          ]
+        },
+        {
+          "name": "Dawei Xue",
+          "raw_author_name": "Dawei Xue",
+          "institutions": [
+            "https://openalex.org/I111979921"
+          ],
+          "raw_affiliations": [
+            "McCormick School of Engineering, Northwestern University, Evanston, IL, USA"
+          ]
+        }
+      ],
+      "url": "https://doi.org/10.1016/j.compgeo.2024.106342",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Ta3kqSwAAAAJ&pagesize=100&citation_for_view=Ta3kqSwAAAAJ:B3FOqHPlNUQC",
+      "metadata_url": "https://openalex.org/W4396241827",
+      "status": "complete"
+    },
+    {
+      "id": 22,
+      "title": "Role of the particle size and shape dispersion on stress transmission and strain energy storage",
+      "year": "2025",
+      "scholar_authors": "Y Li, G Buscarnera",
+      "authors": [
+        {
+          "name": "Yang Li",
+          "raw_author_name": "Y. Li",
+          "institutions": [
+            "https://openalex.org/I111979921"
+          ],
+          "raw_affiliations": [
+            "Department of Civil and Environmental Engineering, Northwestern University, Evanston, IL, USA"
+          ]
+        },
+        {
+          "name": "Giuseppe Buscarnera",
+          "raw_author_name": "G. Buscarnera",
+          "institutions": [
+            "https://openalex.org/I111979921"
+          ],
+          "raw_affiliations": [
+            "Department of Civil and Environmental Engineering, Northwestern University, Evanston, IL, USA"
+          ]
+        }
+      ],
+      "url": "https://doi.org/10.1680/jgele.24.00056",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Ta3kqSwAAAAJ&pagesize=100&citation_for_view=Ta3kqSwAAAAJ:eJXPG6dFmWUC",
+      "metadata_url": "https://openalex.org/W4406242077",
+      "status": "complete"
+    },
+    {
+      "id": 23,
+      "title": "Elastic wave velocities during triaxial shearing influenced by particle morphology",
+      "year": "2024",
+      "scholar_authors": "Y Li, M Otsubo, R Kuwano",
+      "authors": [
+        {
+          "name": "Yang Li",
+          "raw_author_name": "Yang Li",
+          "institutions": [
+            "https://openalex.org/I111979921",
+            "https://openalex.org/I74801974"
+          ],
+          "raw_affiliations": [
+            "Institute of Industrial Science, The University of Tokyo, 4-6-1 Komaba, Meguro, Tokyo 153-8505, Japan",
+            "McCormick School of Engineering, Northwestern University, Evanston, IL 60208, USA"
+          ]
+        },
+        {
+          "name": "Masahide Otsubo",
+          "raw_author_name": "Masahide Otsubo",
+          "institutions": [
+            "https://openalex.org/I4210143417",
+            "https://openalex.org/I74801974"
+          ],
+          "raw_affiliations": [
+            "Institute of Industrial Science, The University of Tokyo, 4-6-1 Komaba, Meguro, Tokyo 153-8505, Japan",
+            "Public Works Research Institute, 1-6 Minamihara, Tsukuba, Ibaraki 305-8516, Japan"
+          ]
+        },
+        {
+          "name": "Reiko Kuwano",
+          "raw_author_name": "Reiko Kuwano",
+          "institutions": [
+            "https://openalex.org/I74801974"
+          ],
+          "raw_affiliations": [
+            "Institute of Industrial Science, The University of Tokyo, 4-6-1 Komaba, Meguro, Tokyo 153-8505, Japan"
+          ]
+        }
+      ],
+      "url": "https://doi.org/10.1016/j.sandf.2024.101443",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Ta3kqSwAAAAJ&pagesize=100&citation_for_view=Ta3kqSwAAAAJ:08ZZubdj9fEC",
+      "metadata_url": "https://openalex.org/W4392814020",
+      "status": "complete"
+    },
+    {
+      "id": 24,
+      "title": "A level-set method-based framework for modeling abrasion of railway ballast",
+      "year": "2025",
+      "scholar_authors": "H Jiang, OC Debanath, Y Li, R Li",
+      "authors": [
+        {
+          "name": "Haoran Jiang",
+          "raw_author_name": "Haoran Jiang",
+          "institutions": [
+            "https://openalex.org/I175360629"
+          ],
+          "raw_affiliations": [
+            "Civil Engineering Design Division, Kajima Corporation, 3-8, Motoakasaka, 1-chome, Minato-ku, Tokyo, 107-8477, Japan"
+          ]
+        },
+        {
+          "name": "Opu Chandra Debanath",
+          "raw_author_name": "Opu Chandra Debanath",
+          "institutions": [
+            "https://openalex.org/I102782458"
+          ],
+          "raw_affiliations": [
+            "Department of Civil Engineering, Chittagong University of Engineering and Technology, Chattogram 4349, Bangladesh"
+          ]
+        },
+        {
+          "name": "Yang Li",
+          "raw_author_name": "Yang Li",
+          "institutions": [
+            "https://openalex.org/I135598925",
+            "https://openalex.org/I14243506"
+          ],
+          "raw_affiliations": [
+            "Department of Civil Engineering, Kyushu University, Fukuoka 819-0395, Japan",
+            "Department of Civil and Environmental Engineering, The Hong Kong Polytechnic University, Hung Hom, Kowloon, Hong Kong, China"
+          ]
+        },
+        {
+          "name": "Ruidong Li",
+          "raw_author_name": "Ruidong Li",
+          "institutions": [
+            "https://openalex.org/I14243506"
+          ],
+          "raw_affiliations": [
+            "Department of Civil and Environmental Engineering, The Hong Kong Polytechnic University, Hung Hom, Kowloon, Hong Kong, China"
+          ]
+        }
+      ],
+      "url": "https://doi.org/10.1016/j.trgeo.2025.101628",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Ta3kqSwAAAAJ&pagesize=100&citation_for_view=Ta3kqSwAAAAJ:BrmTIyaxlBUC",
+      "metadata_url": "https://openalex.org/W4412084915",
+      "status": "complete"
+    },
+    {
+      "id": 25,
+      "title": "Determination of shape and force attractors for brittle granular materials through numerical experiments",
+      "year": "2026",
+      "scholar_authors": "Y Li, D Lal, G Buscarnera",
+      "authors": [
+        {
+          "name": "Y Li",
+          "raw_author_name": "Yang Li",
+          "institutions": [
+            "https://openalex.org/I111979921",
+            "https://openalex.org/I135598925"
+          ],
+          "raw_affiliations": [
+            "Department of Civil Engineering, Kyushu University, Fukuoka, 819–0395, Japan",
+            "Department of Civil and Environmental Engineering, Northwestern University, Evanston, IL, 60208, USA"
+          ]
+        },
+        {
+          "name": "Divyanshu Lal",
+          "raw_author_name": "Divyanshu Lal",
+          "institutions": [
+            "https://openalex.org/I111979921"
+          ],
+          "raw_affiliations": [
+            "Department of Civil and Environmental Engineering, Northwestern University, Evanston, IL, 60208, USA"
+          ]
+        },
+        {
+          "name": "Giuseppe Buscarnera",
+          "raw_author_name": "Giuseppe Buscarnera",
+          "institutions": [
+            "https://openalex.org/I111979921"
+          ],
+          "raw_affiliations": [
+            "Department of Civil and Environmental Engineering, Northwestern University, Evanston, IL, 60208, USA"
+          ]
+        }
+      ],
+      "url": "https://doi.org/10.1007/s10035-026-01637-9",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Ta3kqSwAAAAJ&pagesize=100&citation_for_view=Ta3kqSwAAAAJ:bnK-pcrLprsC",
+      "metadata_url": "https://openalex.org/W7160529095",
+      "status": "complete"
+    },
+    {
+      "id": 26,
+      "title": "Evolving particle shape dispersion in crushable granular solids: A continuum breakage mechanics model",
+      "year": "2026",
+      "scholar_authors": "D Lal, Y Li, G Buscarnera",
+      "authors": [
+        {
+          "name": "Divyanshu Lal",
+          "raw_author_name": "Divyanshu Lal",
+          "institutions": [
+            "https://openalex.org/I111979921"
+          ],
+          "raw_affiliations": [
+            "McCormick School of Engineering, Northwestern University, Evanston, IL, USA"
+          ]
+        },
+        {
+          "name": "Yang Li",
+          "raw_author_name": "Yang Li",
+          "institutions": [
+            "https://openalex.org/I135598925"
+          ],
+          "raw_affiliations": [
+            "Department of Civil Engineering, Kyushu University, Fukuoka, 819-0395, Japan"
+          ]
+        },
+        {
+          "name": "Giuseppe Buscarnera",
+          "raw_author_name": "Giuseppe Buscarnera",
+          "institutions": [
+            "https://openalex.org/I111979921"
+          ],
+          "raw_affiliations": [
+            "McCormick School of Engineering, Northwestern University, Evanston, IL, USA"
+          ]
+        }
+      ],
+      "url": "https://doi.org/10.1016/j.jmps.2026.106651",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Ta3kqSwAAAAJ&pagesize=100&citation_for_view=Ta3kqSwAAAAJ:XiVPGOgt02cC",
+      "metadata_url": "https://openalex.org/W7155351453",
+      "status": "complete"
+    },
+    {
+      "id": 27,
+      "title": "Effects of Particle Morphology on Mechanical Responses of Granular Materials",
+      "year": "2022",
+      "scholar_authors": "Y Li",
+      "authors": [
+        {
+          "name": "Yang Li",
+          "raw_author_name": "李, 洋",
+          "institutions": [
+            "https://openalex.org/I74801974"
+          ],
+          "raw_affiliations": [
+            "東京大学"
+          ]
+        }
+      ],
+      "url": "https://doi.org/10.15083/0002010937",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Ta3kqSwAAAAJ&pagesize=100&citation_for_view=Ta3kqSwAAAAJ:K3LRdlH-MEoC",
+      "metadata_url": "https://openalex.org/W7207569593",
+      "status": "complete"
+    },
+    {
+      "id": 28,
+      "title": "Cell-based origins of structural and mechanical responses in sheared granular systems",
+      "year": "2026",
+      "scholar_authors": "H Jiang, J Liu, Z Ye, Y Li",
+      "authors": [
+        {
+          "name": "Haoran Jiang",
+          "raw_author_name": "Haoran Jiang",
+          "institutions": [
+            "https://openalex.org/I175360629"
+          ],
+          "raw_affiliations": [
+            "Civil Engineering Design Division, Kajima Corporation, Tokyo, 107-8477, Japan"
+          ]
+        },
+        {
+          "name": "Jiaying Liu",
+          "raw_author_name": "Jiaying Liu",
+          "institutions": [
+            "https://openalex.org/I4400573310"
+          ],
+          "raw_affiliations": [
+            "School of Engineering, Hangzhou City University, Hangzhou, 310015, China"
+          ]
+        },
+        {
+          "name": "Zi Ye",
+          "raw_author_name": "Zi Ye",
+          "institutions": [
+            "https://openalex.org/I163340411"
+          ],
+          "raw_affiliations": [
+            "Key Laboratory of Ministry of Education for Geomechanics and Embankment Engineering, Hohai University, Nanjing 210098, China"
+          ]
+        },
+        {
+          "name": "Yang Li",
+          "raw_author_name": "Yang Li",
+          "institutions": [
+            "https://openalex.org/I135598925"
+          ],
+          "raw_affiliations": [
+            "Department of Civil Engineering, Kyushu University, Fukuoka, 819-0395, Japan"
+          ]
+        }
+      ],
+      "url": "https://doi.org/10.1016/j.compgeo.2026.108216",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Ta3kqSwAAAAJ&pagesize=100&citation_for_view=Ta3kqSwAAAAJ:5ugPr518TE4C",
+      "metadata_url": "https://openalex.org/W7160555375",
+      "status": "complete"
+    },
+    {
+      "id": 29,
+      "title": "Multi-scale morphology of diverse particles from CE-5 lunar samples: Implications for flowability of lunar soil",
+      "year": "2026",
+      "scholar_authors": "Z Wu, S Wang, J Nie, X Zhang, Y Li",
+      "authors": [
+        {
+          "name": "Zhijun Wu",
+          "raw_author_name": "Zhijun Wu",
+          "institutions": [
+            "https://openalex.org/I37461747"
+          ],
+          "raw_affiliations": [
+            "School of Civil Engineering, Wuhan University, Wuhan 430072, China"
+          ]
+        },
+        {
+          "name": "Siqiao Wang",
+          "raw_author_name": "Siqiao Wang",
+          "institutions": [
+            "https://openalex.org/I37461747"
+          ],
+          "raw_affiliations": [
+            "School of Civil Engineering, Wuhan University, Wuhan 430072, China"
+          ]
+        },
+        {
+          "name": "Jiayan Nie",
+          "raw_author_name": "Jiayan Nie",
+          "institutions": [
+            "https://openalex.org/I37461747"
+          ],
+          "raw_affiliations": [
+            "School of Civil Engineering, Wuhan University, Wuhan 430072, China"
+          ]
+        },
+        {
+          "name": "Xuhang Zhang",
+          "raw_author_name": "Xuhang Zhang",
+          "institutions": [
+            "https://openalex.org/I4210126061"
+          ],
+          "raw_affiliations": [
+            "Key Laboratory of Earth and Planetary Physics, Institute of Geology and Geophysics, Chinese Academy of Sciences, Beijing 100029, China"
+          ]
+        },
+        {
+          "name": "Yang Li",
+          "raw_author_name": "Yang Li",
+          "institutions": [
+            "https://openalex.org/I135598925"
+          ],
+          "raw_affiliations": [
+            "Department of Civil Engineering, Kyushu University, Fukuoka Shi 819-0395, Japan"
+          ]
+        }
+      ],
+      "url": "https://doi.org/10.1016/j.gsf.2026.102368",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Ta3kqSwAAAAJ&pagesize=100&citation_for_view=Ta3kqSwAAAAJ:olpn-zPbct0C",
+      "metadata_url": "https://openalex.org/W7163579688",
+      "status": "complete"
+    },
+    {
+      "id": 30,
+      "title": "A DEM investigation of the arching effect in rock material mixtures with different strengths",
+      "year": "2026",
+      "scholar_authors": "R Sukhumkitcharoen, M Otsubo, I Sato, Y Li, H Takahashi",
+      "authors": [
+        {
+          "name": "Rawiwan Sukhumkitcharoen",
+          "raw_author_name": "Rawiwan Sukhumkitcharoen",
+          "institutions": [
+            "https://openalex.org/I4210155417"
+          ],
+          "raw_affiliations": [
+            "Port and Airport Research Institute, 3-1-1 Nagase, Yokosuka, Kanagawa 239-0826, Japan"
+          ]
+        },
+        {
+          "name": "Masahide Otsubo",
+          "raw_author_name": "Masahide Otsubo",
+          "institutions": [
+            "https://openalex.org/I4210155417"
+          ],
+          "raw_affiliations": [
+            "Port and Airport Research Institute, 3-1-1 Nagase, Yokosuka, Kanagawa 239-0826, Japan"
+          ]
+        },
+        {
+          "name": "Itsuki Sato",
+          "raw_author_name": "Itsuki Sato",
+          "institutions": [
+            "https://openalex.org/I4210155417"
+          ],
+          "raw_affiliations": [
+            "Port and Airport Research Institute, 3-1-1 Nagase, Yokosuka, Kanagawa 239-0826, Japan"
+          ]
+        },
+        {
+          "name": "Yang Li",
+          "raw_author_name": "Yang Li",
+          "institutions": [
+            "https://openalex.org/I135598925",
+            "https://openalex.org/I4210155417"
+          ],
+          "raw_affiliations": [
+            "Department of Civil Engineering, Kyushu University, 744 Motooka, Nishi-ku, Fukuoka 819-0395, Japan",
+            "Port and Airport Research Institute, 3-1-1 Nagase, Yokosuka, Kanagawa 239-0826, Japan"
+          ]
+        },
+        {
+          "name": "Hidenori Takahashi",
+          "raw_author_name": "Hidenori Takahashi",
+          "institutions": [
+            "https://openalex.org/I4210155417",
+            "https://openalex.org/I48840829"
+          ],
+          "raw_affiliations": [
+            "Department of Marine Resources and Energy, Tokyo University of Marine Science and Technology, 4-5-7 Konan, Minato-ku, Tokyo 108-8477, Japan",
+            "Port and Airport Research Institute, 3-1-1 Nagase, Yokosuka, Kanagawa 239-0826, Japan"
+          ]
+        }
+      ],
+      "url": "https://doi.org/10.1016/j.powtec.2026.122372",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Ta3kqSwAAAAJ&pagesize=100&citation_for_view=Ta3kqSwAAAAJ:1qzjygNMrQYC",
+      "metadata_url": "https://openalex.org/W7133505664",
+      "status": "complete"
+    },
+    {
+      "id": 31,
+      "title": "Variance reduction function modeling for a potential circular slip surface in spatially variable slopes",
+      "year": "2026",
+      "scholar_authors": "L Hu, R Zhang, G Wang, Y Li, Z Li, F Li, J Yu, K Kasama",
+      "authors": [
+        {
+          "name": "Lihang Hu",
+          "raw_author_name": "Lihang Hu",
+          "institutions": [],
+          "raw_affiliations": []
+        },
+        {
+          "name": "Rui Zhang",
+          "raw_author_name": "Rui Zhang",
+          "institutions": [],
+          "raw_affiliations": []
+        },
+        {
+          "name": "Gang Wang",
+          "raw_author_name": "Gang Wang",
+          "institutions": [],
+          "raw_affiliations": []
+        },
+        {
+          "name": "Yang Li",
+          "raw_author_name": "Yang Li",
+          "institutions": [],
+          "raw_affiliations": []
+        },
+        {
+          "name": "Zhi Li",
+          "raw_author_name": "Zhi Li",
+          "institutions": [],
+          "raw_affiliations": []
+        },
+        {
+          "name": "Faxin Li",
+          "raw_author_name": "Faxin Li",
+          "institutions": [],
+          "raw_affiliations": []
+        },
+        {
+          "name": "Junyan Yu",
+          "raw_author_name": "Junyan Yu",
+          "institutions": [],
+          "raw_affiliations": []
+        },
+        {
+          "name": "清伸 笠間",
+          "raw_author_name": "Kiyonobu Kasama",
+          "institutions": [],
+          "raw_affiliations": []
+        }
+      ],
+      "url": "https://doi.org/10.1016/j.enggeo.2026.108636",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Ta3kqSwAAAAJ&pagesize=100&citation_for_view=Ta3kqSwAAAAJ:V3AGJWp-ZtQC",
+      "metadata_url": "https://openalex.org/W7131663138",
+      "status": "missing"
+    },
+    {
+      "id": 32,
+      "title": "Biaxial shearing of star-shaped particles with multiellipse DEM model",
+      "year": "2025",
+      "scholar_authors": "Z Yu, Y Li, H Jiang",
+      "authors": [
+        {
+          "name": "Zhipeng Yu",
+          "raw_author_name": "Zhipeng Yu",
+          "institutions": [
+            "https://openalex.org/I146399215"
+          ],
+          "raw_affiliations": [
+            "Department of Engineering Mechanics and Energy, University of Tsukuba"
+          ]
+        },
+        {
+          "name": "Yang Li",
+          "raw_author_name": "Yang Li",
+          "institutions": [
+            "https://openalex.org/I111979921"
+          ],
+          "raw_affiliations": [
+            "Department of Civil and Environmental Engineering, Northwestern University"
+          ]
+        },
+        {
+          "name": "Haoran Jiang",
+          "raw_author_name": "Haoran Jiang",
+          "institutions": [
+            "https://openalex.org/I175360629"
+          ],
+          "raw_affiliations": [
+            "Civil Engineering Design Division, Kajima Corporation"
+          ]
+        }
+      ],
+      "url": "https://doi.org/10.1051/epjconf/202534009001",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Ta3kqSwAAAAJ&pagesize=100&citation_for_view=Ta3kqSwAAAAJ:kRWSkSYxWN8C",
+      "metadata_url": "https://openalex.org/W7108073984",
+      "status": "complete"
+    },
+    {
+      "id": 33,
+      "title": "Microscopic insight into the soil fabric during load-unload correlated with stress waves",
+      "year": "2022",
+      "scholar_authors": "Y Li, M Otsubo, R Kuwano",
+      "authors": [
+        {
+          "name": "Yang Li",
+          "raw_author_name": "Yang Li",
+          "institutions": [
+            "https://openalex.org/I74801974"
+          ],
+          "raw_affiliations": [
+            "Institute of Industrial Science, The University of Tokyo, Tokyo, Japan"
+          ]
+        },
+        {
+          "name": "Masahide Otsubo",
+          "raw_author_name": "Masahide Otsubo",
+          "institutions": [
+            "https://openalex.org/I74801974"
+          ],
+          "raw_affiliations": [
+            "Institute of Industrial Science, The University of Tokyo, Tokyo, Japan"
+          ]
+        },
+        {
+          "name": "Reiko Kuwano",
+          "raw_author_name": "Reiko Kuwano",
+          "institutions": [
+            "https://openalex.org/I74801974"
+          ],
+          "raw_affiliations": [
+            "Institute of Industrial Science, The University of Tokyo, Tokyo, Japan"
+          ]
+        }
+      ],
+      "url": "https://doi.org/10.1007/978-3-031-11898-2_204",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Ta3kqSwAAAAJ&pagesize=100&citation_for_view=Ta3kqSwAAAAJ:XiSMed-E-HIC",
+      "metadata_url": "https://openalex.org/W4296337540",
+      "status": "complete"
+    },
+    {
+      "id": 34,
+      "title": "DEM modelling of granular materials with real shape morphology",
+      "year": "2021",
+      "scholar_authors": "Y Li, M Otsubo, R Kuwano, S Nadimi, V Angelidakis",
+      "authors": [],
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Ta3kqSwAAAAJ&pagesize=100&citation_for_view=Ta3kqSwAAAAJ:dshw04ExmUIC",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Ta3kqSwAAAAJ&pagesize=100&citation_for_view=Ta3kqSwAAAAJ:dshw04ExmUIC",
+      "metadata_url": null,
+      "status": "missing"
+    },
+    {
+      "id": 35,
+      "title": "An experimental study on the influence of particle shape on the mechanical behaviour of granular materials",
+      "year": "2020",
+      "scholar_authors": "Y LI, M OTSUBO, R KUWANO",
+      "authors": [],
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Ta3kqSwAAAAJ&pagesize=100&citation_for_view=Ta3kqSwAAAAJ:SP6oXDckpogC",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Ta3kqSwAAAAJ&pagesize=100&citation_for_view=Ta3kqSwAAAAJ:SP6oXDckpogC",
+      "metadata_url": null,
+      "status": "missing"
+    },
+    {
+      "id": 36,
+      "title": "DEM analysis of pore-driven breakage in granular materials",
+      "year": "2026",
+      "scholar_authors": "Y Li, M Otsubo, I Sato, R Sukhumkitcharoen, H Takahashi",
+      "authors": [
+        {
+          "name": "Yang Li",
+          "raw_author_name": "Yang Li",
+          "institutions": [
+            "https://openalex.org/I135598925",
+            "https://openalex.org/I4210155417"
+          ],
+          "raw_affiliations": [
+            "Department of Civil Engineering, Kyushu University, Fukuoka 819-0395, Japan",
+            "Port and Airport Research Institute, 3-1-1 Nagase, Yokosuka, Kanagawa 239-0826, Japan"
+          ]
+        },
+        {
+          "name": "Masahide Otsubo",
+          "raw_author_name": "Masahide Otsubo",
+          "institutions": [
+            "https://openalex.org/I4210155417"
+          ],
+          "raw_affiliations": [
+            "Port and Airport Research Institute, 3-1-1 Nagase, Yokosuka, Kanagawa 239-0826, Japan"
+          ]
+        },
+        {
+          "name": "Itsuki Sato",
+          "raw_author_name": "Itsuki Sato",
+          "institutions": [
+            "https://openalex.org/I4210155417"
+          ],
+          "raw_affiliations": [
+            "Port and Airport Research Institute, 3-1-1 Nagase, Yokosuka, Kanagawa 239-0826, Japan"
+          ]
+        },
+        {
+          "name": "Rawiwan Sukhumkitcharoen",
+          "raw_author_name": "Rawiwan Sukhumkitcharoen",
+          "institutions": [
+            "https://openalex.org/I4210155417"
+          ],
+          "raw_affiliations": [
+            "Port and Airport Research Institute, 3-1-1 Nagase, Yokosuka, Kanagawa 239-0826, Japan"
+          ]
+        },
+        {
+          "name": "Hidenori Takahashi",
+          "raw_author_name": "Hidenori Takahashi",
+          "institutions": [
+            "https://openalex.org/I4210155417",
+            "https://openalex.org/I48840829"
+          ],
+          "raw_affiliations": [
+            "Department of Marine Resources and Energy, Tokyo University of Marine Science and Technology, 4-5-7 Konan, Minato-ku, Tokyo 108-8477, Japan",
+            "Port and Airport Research Institute, 3-1-1 Nagase, Yokosuka, Kanagawa 239-0826, Japan"
+          ]
+        }
+      ],
+      "url": "https://doi.org/10.1016/j.powtec.2026.122450",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Ta3kqSwAAAAJ&pagesize=100&citation_for_view=Ta3kqSwAAAAJ:J-pR_7NvFogC",
+      "metadata_url": "https://openalex.org/W7138914688",
+      "status": "complete"
+    },
+    {
+      "id": 37,
+      "title": "Sensitivity of G0 and stress-strain relation of geomaterials to grain shape and surface roughness",
+      "year": "2024",
+      "scholar_authors": "M Otsubo, Y Li, R Kuwano",
+      "authors": [
+        {
+          "name": "Masahide Otsubo",
+          "raw_author_name": "Masahide Otsubo",
+          "institutions": [
+            "https://openalex.org/I4210143417",
+            "https://openalex.org/I74801974"
+          ],
+          "raw_affiliations": [
+            "Public Works Research Institute, 1-6 Minamihara, Ibaraki 305-8516, Tsukuba, Japan",
+            "The University of Tokyo, Institute of Industrial Science, 4-6-1 Komaba, Meguro-ku, Tokyo 153-8505, Japan"
+          ]
+        },
+        {
+          "name": "Yang Li",
+          "raw_author_name": "Yang Li",
+          "institutions": [
+            "https://openalex.org/I74801974"
+          ],
+          "raw_affiliations": [
+            "The University of Tokyo, Institute of Industrial Science, 4-6-1 Komaba, Meguro-ku, Tokyo 153-8505, Japan"
+          ]
+        },
+        {
+          "name": "Reiko Kuwano",
+          "raw_author_name": "Reiko Kuwano",
+          "institutions": [
+            "https://openalex.org/I74801974"
+          ],
+          "raw_affiliations": [
+            "The University of Tokyo, Institute of Industrial Science, 4-6-1 Komaba, Meguro-ku, Tokyo 153-8505, Japan"
+          ]
+        }
+      ],
+      "url": "https://doi.org/10.1051/e3sconf/202454405006",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Ta3kqSwAAAAJ&pagesize=100&citation_for_view=Ta3kqSwAAAAJ:geHnlv5EZngC",
+      "metadata_url": "https://openalex.org/W4400255352",
+      "status": "complete"
+    },
+    {
+      "id": 38,
+      "title": "Relating dynamic properties of gap-graded soils to the stress transmission in soil fabric",
+      "year": "2022",
+      "scholar_authors": "RK Masahide Otsubo, Arian Ghaemi, Yang Li, Troyee Tanu Dutta",
+      "authors": [],
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Ta3kqSwAAAAJ&pagesize=100&citation_for_view=Ta3kqSwAAAAJ:738O_yMBCRsC",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Ta3kqSwAAAAJ&pagesize=100&citation_for_view=Ta3kqSwAAAAJ:738O_yMBCRsC",
+      "metadata_url": null,
+      "status": "missing"
+    },
+    {
+      "id": 39,
+      "title": "ガウスフィルタを用いた粒状体材料の表面粗度評価手法の提案",
+      "year": "2021",
+      "scholar_authors": "大坪 正英, ヤン リ, 桑野 玲子サデック ナディミ",
+      "authors": [],
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Ta3kqSwAAAAJ&pagesize=100&citation_for_view=Ta3kqSwAAAAJ:UxriW0iASnsC",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Ta3kqSwAAAAJ&pagesize=100&citation_for_view=Ta3kqSwAAAAJ:UxriW0iASnsC",
+      "metadata_url": null,
+      "status": "missing"
+    },
+    {
+      "id": 40,
+      "title": "ギャップグレード硅砂の動的応答に関する室内要素試験",
+      "year": "2020",
+      "scholar_authors": "大坪 正英, デュッタ トロイー タヌ, ガエム アリアン, リ ヤン桑野 玲子",
+      "authors": [],
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Ta3kqSwAAAAJ&pagesize=100&citation_for_view=Ta3kqSwAAAAJ:uWQEDVKXjbEC",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Ta3kqSwAAAAJ&pagesize=100&citation_for_view=Ta3kqSwAAAAJ:uWQEDVKXjbEC",
+      "metadata_url": null,
+      "status": "missing"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "https://openalex.org/I111979921",
+      "name": "Northwestern University",
+      "city": "Evanston",
+      "country": "United States",
+      "lon": -87.69006,
+      "lat": 42.04114,
+      "papers": [
+        0,
+        3,
+        5,
+        6,
+        8,
+        10,
+        13,
+        15,
+        17,
+        19,
+        21,
+        22,
+        23,
+        25,
+        26,
+        32
+      ]
+    },
+    {
+      "id": "https://openalex.org/I84884186",
+      "name": "Newcastle University",
+      "city": "Newcastle upon Tyne",
+      "country": "United Kingdom",
+      "lon": -1.61396,
+      "lat": 54.97328,
+      "papers": [
+        0,
+        1,
+        15
+      ]
+    },
+    {
+      "id": "https://openalex.org/I4210143417",
+      "name": "Public Works Research Institute",
+      "city": "Tsukuba",
+      "country": "Japan",
+      "lon": 140.11667,
+      "lat": 36.08333,
+      "papers": [
+        0,
+        3,
+        11,
+        23,
+        37
+      ]
+    },
+    {
+      "id": "https://openalex.org/I126231945",
+      "name": "Queen's University Belfast",
+      "city": "Belfast",
+      "country": "United Kingdom",
+      "lon": -5.92541,
+      "lat": 54.59682,
+      "papers": [
+        0,
+        15
+      ]
+    },
+    {
+      "id": "https://openalex.org/I74801974",
+      "name": "The University of Tokyo",
+      "city": "Tokyo",
+      "country": "Japan",
+      "lon": 139.69171,
+      "lat": 35.6895,
+      "papers": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        7,
+        11,
+        15,
+        23,
+        27,
+        33,
+        37
+      ]
+    },
+    {
+      "id": "https://openalex.org/I56590836",
+      "name": "Monash University",
+      "city": "Melbourne",
+      "country": "Australia",
+      "lon": 144.96332,
+      "lat": -37.814,
+      "papers": [
+        4
+      ]
+    },
+    {
+      "id": "https://openalex.org/I146399215",
+      "name": "University of Tsukuba",
+      "city": "Tsukuba",
+      "country": "Japan",
+      "lon": 140.11667,
+      "lat": 36.08333,
+      "papers": [
+        5,
+        6,
+        32
+      ]
+    },
+    {
+      "id": "https://openalex.org/I102782458",
+      "name": "Chittagong University of Engineering & Technology",
+      "city": "Chittagong",
+      "country": "Bangladesh",
+      "lon": 91.83168,
+      "lat": 22.3384,
+      "papers": [
+        6,
+        10,
+        24
+      ]
+    },
+    {
+      "id": "https://openalex.org/I4405263741",
+      "name": "Aix-Marseille University / INRAE — RECOVER",
+      "city": "Aix-en-Provence",
+      "country": "France",
+      "lon": 5.44973,
+      "lat": 43.5283,
+      "papers": [
+        6
+      ]
+    },
+    {
+      "id": "https://openalex.org/I175360629",
+      "name": "Kajima Corporation (Japan)",
+      "city": "Tokyo",
+      "country": "Japan",
+      "lon": 139.69171,
+      "lat": 35.6895,
+      "papers": [
+        8,
+        10,
+        13,
+        19,
+        24,
+        28,
+        32
+      ]
+    },
+    {
+      "id": "https://openalex.org/I116953780",
+      "name": "Tongji University",
+      "city": "Shanghai",
+      "country": "China",
+      "lon": 121.45806121826172,
+      "lat": 31.222219467163086,
+      "papers": [
+        8,
+        9,
+        12,
+        13,
+        14,
+        16,
+        18,
+        20,
+        21
+      ]
+    },
+    {
+      "id": "https://openalex.org/I135598925",
+      "name": "Kyushu University",
+      "city": "Fukuoka",
+      "country": "Japan",
+      "lon": 130.41667,
+      "lat": 33.6,
+      "papers": [
+        8,
+        24,
+        25,
+        26,
+        28,
+        29,
+        30,
+        36
+      ]
+    },
+    {
+      "id": "https://openalex.org/I37461747",
+      "name": "Wuhan University",
+      "city": "Wuhan",
+      "country": "China",
+      "lon": 114.26667,
+      "lat": 30.58333,
+      "papers": [
+        10,
+        29
+      ]
+    },
+    {
+      "id": "https://openalex.org/I4210155417",
+      "name": "Port and Airport Research Institute",
+      "city": "Yokosuka",
+      "country": "Japan",
+      "lon": 139.66722,
+      "lat": 35.28361,
+      "papers": [
+        15,
+        30,
+        36
+      ]
+    },
+    {
+      "id": "https://openalex.org/I163340411",
+      "name": "Hohai University",
+      "city": "Nanjing",
+      "country": "China",
+      "lon": 118.77778,
+      "lat": 32.06167,
+      "papers": [
+        21,
+        28
+      ]
+    },
+    {
+      "id": "https://openalex.org/I14243506",
+      "name": "Hong Kong Polytechnic University",
+      "city": "Hong Kong",
+      "country": "Hong Kong",
+      "lon": 114.17469,
+      "lat": 22.27832,
+      "papers": [
+        24
+      ]
+    },
+    {
+      "id": "https://openalex.org/I4400573310",
+      "name": "Hangzhou City University",
+      "city": "Hangzhou",
+      "country": "China",
+      "lon": 120.16142272949219,
+      "lat": 30.293649673461914,
+      "papers": [
+        28
+      ]
+    },
+    {
+      "id": "https://openalex.org/I4210126061",
+      "name": "Institute of Geology and Geophysics, CAS",
+      "city": "Beijing",
+      "country": "China",
+      "lon": 116.39723205566406,
+      "lat": 39.907501220703125,
+      "papers": [
+        29
+      ]
+    },
+    {
+      "id": "https://openalex.org/I48840829",
+      "name": "Tokyo University of Marine Science and Technology",
+      "city": "Tokyo",
+      "country": "Japan",
+      "lon": 139.69171142578125,
+      "lat": 35.68949890136719,
+      "papers": [
+        30,
+        36
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "source": "https://openalex.org/I74801974",
+      "target": "https://openalex.org/I84884186",
+      "papers": [
+        0,
+        1,
+        15
+      ]
+    },
+    {
+      "source": "https://openalex.org/I126231945",
+      "target": "https://openalex.org/I74801974",
+      "papers": [
+        0,
+        15
+      ]
+    },
+    {
+      "source": "https://openalex.org/I111979921",
+      "target": "https://openalex.org/I74801974",
+      "papers": [
+        0,
+        3,
+        15,
+        23
+      ]
+    },
+    {
+      "source": "https://openalex.org/I126231945",
+      "target": "https://openalex.org/I84884186",
+      "papers": [
+        0,
+        15
+      ]
+    },
+    {
+      "source": "https://openalex.org/I111979921",
+      "target": "https://openalex.org/I84884186",
+      "papers": [
+        0,
+        15
+      ]
+    },
+    {
+      "source": "https://openalex.org/I126231945",
+      "target": "https://openalex.org/I4210143417",
+      "papers": [
+        0
+      ]
+    },
+    {
+      "source": "https://openalex.org/I111979921",
+      "target": "https://openalex.org/I126231945",
+      "papers": [
+        0,
+        15
+      ]
+    },
+    {
+      "source": "https://openalex.org/I4210143417",
+      "target": "https://openalex.org/I74801974",
+      "papers": [
+        0,
+        3,
+        11,
+        23,
+        37
+      ]
+    },
+    {
+      "source": "https://openalex.org/I111979921",
+      "target": "https://openalex.org/I4210143417",
+      "papers": [
+        0,
+        3,
+        23
+      ]
+    },
+    {
+      "source": "https://openalex.org/I4210143417",
+      "target": "https://openalex.org/I84884186",
+      "papers": [
+        0
+      ]
+    },
+    {
+      "source": "https://openalex.org/I56590836",
+      "target": "https://openalex.org/I74801974",
+      "papers": [
+        4
+      ]
+    },
+    {
+      "source": "https://openalex.org/I111979921",
+      "target": "https://openalex.org/I146399215",
+      "papers": [
+        5,
+        6,
+        32
+      ]
+    },
+    {
+      "source": "https://openalex.org/I102782458",
+      "target": "https://openalex.org/I4405263741",
+      "papers": [
+        6
+      ]
+    },
+    {
+      "source": "https://openalex.org/I102782458",
+      "target": "https://openalex.org/I146399215",
+      "papers": [
+        6
+      ]
+    },
+    {
+      "source": "https://openalex.org/I146399215",
+      "target": "https://openalex.org/I4405263741",
+      "papers": [
+        6
+      ]
+    },
+    {
+      "source": "https://openalex.org/I102782458",
+      "target": "https://openalex.org/I111979921",
+      "papers": [
+        6,
+        10
+      ]
+    },
+    {
+      "source": "https://openalex.org/I111979921",
+      "target": "https://openalex.org/I4405263741",
+      "papers": [
+        6
+      ]
+    },
+    {
+      "source": "https://openalex.org/I111979921",
+      "target": "https://openalex.org/I175360629",
+      "papers": [
+        8,
+        10,
+        13,
+        19,
+        32
+      ]
+    },
+    {
+      "source": "https://openalex.org/I111979921",
+      "target": "https://openalex.org/I116953780",
+      "papers": [
+        8,
+        13,
+        21
+      ]
+    },
+    {
+      "source": "https://openalex.org/I116953780",
+      "target": "https://openalex.org/I175360629",
+      "papers": [
+        8,
+        13
+      ]
+    },
+    {
+      "source": "https://openalex.org/I135598925",
+      "target": "https://openalex.org/I175360629",
+      "papers": [
+        8,
+        24,
+        28
+      ]
+    },
+    {
+      "source": "https://openalex.org/I111979921",
+      "target": "https://openalex.org/I135598925",
+      "papers": [
+        8,
+        25,
+        26
+      ]
+    },
+    {
+      "source": "https://openalex.org/I116953780",
+      "target": "https://openalex.org/I135598925",
+      "papers": [
+        8
+      ]
+    },
+    {
+      "source": "https://openalex.org/I102782458",
+      "target": "https://openalex.org/I175360629",
+      "papers": [
+        10,
+        24
+      ]
+    },
+    {
+      "source": "https://openalex.org/I111979921",
+      "target": "https://openalex.org/I37461747",
+      "papers": [
+        10
+      ]
+    },
+    {
+      "source": "https://openalex.org/I175360629",
+      "target": "https://openalex.org/I37461747",
+      "papers": [
+        10
+      ]
+    },
+    {
+      "source": "https://openalex.org/I102782458",
+      "target": "https://openalex.org/I37461747",
+      "papers": [
+        10
+      ]
+    },
+    {
+      "source": "https://openalex.org/I4210155417",
+      "target": "https://openalex.org/I84884186",
+      "papers": [
+        15
+      ]
+    },
+    {
+      "source": "https://openalex.org/I4210155417",
+      "target": "https://openalex.org/I74801974",
+      "papers": [
+        15
+      ]
+    },
+    {
+      "source": "https://openalex.org/I126231945",
+      "target": "https://openalex.org/I4210155417",
+      "papers": [
+        15
+      ]
+    },
+    {
+      "source": "https://openalex.org/I111979921",
+      "target": "https://openalex.org/I4210155417",
+      "papers": [
+        15
+      ]
+    },
+    {
+      "source": "https://openalex.org/I111979921",
+      "target": "https://openalex.org/I163340411",
+      "papers": [
+        21
+      ]
+    },
+    {
+      "source": "https://openalex.org/I116953780",
+      "target": "https://openalex.org/I163340411",
+      "papers": [
+        21
+      ]
+    },
+    {
+      "source": "https://openalex.org/I14243506",
+      "target": "https://openalex.org/I175360629",
+      "papers": [
+        24
+      ]
+    },
+    {
+      "source": "https://openalex.org/I135598925",
+      "target": "https://openalex.org/I14243506",
+      "papers": [
+        24
+      ]
+    },
+    {
+      "source": "https://openalex.org/I102782458",
+      "target": "https://openalex.org/I135598925",
+      "papers": [
+        24
+      ]
+    },
+    {
+      "source": "https://openalex.org/I102782458",
+      "target": "https://openalex.org/I14243506",
+      "papers": [
+        24
+      ]
+    },
+    {
+      "source": "https://openalex.org/I175360629",
+      "target": "https://openalex.org/I4400573310",
+      "papers": [
+        28
+      ]
+    },
+    {
+      "source": "https://openalex.org/I135598925",
+      "target": "https://openalex.org/I4400573310",
+      "papers": [
+        28
+      ]
+    },
+    {
+      "source": "https://openalex.org/I135598925",
+      "target": "https://openalex.org/I163340411",
+      "papers": [
+        28
+      ]
+    },
+    {
+      "source": "https://openalex.org/I163340411",
+      "target": "https://openalex.org/I175360629",
+      "papers": [
+        28
+      ]
+    },
+    {
+      "source": "https://openalex.org/I163340411",
+      "target": "https://openalex.org/I4400573310",
+      "papers": [
+        28
+      ]
+    },
+    {
+      "source": "https://openalex.org/I135598925",
+      "target": "https://openalex.org/I37461747",
+      "papers": [
+        29
+      ]
+    },
+    {
+      "source": "https://openalex.org/I135598925",
+      "target": "https://openalex.org/I4210126061",
+      "papers": [
+        29
+      ]
+    },
+    {
+      "source": "https://openalex.org/I37461747",
+      "target": "https://openalex.org/I4210126061",
+      "papers": [
+        29
+      ]
+    },
+    {
+      "source": "https://openalex.org/I4210155417",
+      "target": "https://openalex.org/I48840829",
+      "papers": [
+        30,
+        36
+      ]
+    },
+    {
+      "source": "https://openalex.org/I135598925",
+      "target": "https://openalex.org/I48840829",
+      "papers": [
+        30,
+        36
+      ]
+    },
+    {
+      "source": "https://openalex.org/I135598925",
+      "target": "https://openalex.org/I4210155417",
+      "papers": [
+        30,
+        36
+      ]
+    },
+    {
+      "source": "https://openalex.org/I146399215",
+      "target": "https://openalex.org/I175360629",
+      "papers": [
+        32
+      ]
+    }
+  ]
+}
